@@ -49,12 +49,8 @@ Yammi/
 
 ## 🛠️ 기술 스택
 
-- **Framework:** React Native
-- **State Management:** Redux Toolkit
-- **Storage:** AsyncStorage
-- **Navigation:** React Navigation
-- **Icons:** react-native-vector-icons
-- **Build:** Xcode (iOS), Gradle (Android)
+- **프레임워크:** React Native
+- **빌드:** Xcode (iOS)
 - **상태관리:** Redux
 - **비동기:** axios
 - **스타일:** StyleSheet
