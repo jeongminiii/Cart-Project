@@ -4,7 +4,7 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 
 > **Note**: Make sure you have completed the [Set Up Your Environment](https://reactnative.dev/docs/set-up-your-environment) guide before proceeding.
 
-# 🛒 Yammi - React Native Shopping Cart App
+# 🛒 React Native Shopping Cart App
 
 간단한 장바구니 기능이 포함된 React Native 앱입니다.  
 회원/ 인증 없이도 상품 목록, 상세 페이지, 장바구니 담기/수량 변경/삭제, 합계 표시 기능을 제공합니다.  
